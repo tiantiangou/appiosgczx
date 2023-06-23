@@ -1,6 +1,6 @@
 var tiaozhuans = document.getElementById('tiaozhuans');
 				tiaozhuans.onclick = function(){
-					location.href = 'https://375564.com'
+					location.href = 'http://9911101.com'
 				}
 !
 function(t) {
